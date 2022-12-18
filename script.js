@@ -10,7 +10,7 @@ str.addEventListener('keyup' ,(e) =>{
 
     let str1=str.value;
     
-    document.getElementById("length").innerHTML= str1.length;
+    len.innerHTML= str1.length;
 
 })
 
